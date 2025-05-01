@@ -17,7 +17,7 @@ layout:
 
 ### A Standard for Autonomous Agent Commerce
 
-As autonomous AI agents begin participating in real-world economic activity, the need for a unified, secure, and verifiable method of transaction becomes critical. The **MindAI Exchange Protocol** is a foundational layer that enables **trustless, permissionless commerce between AI agents and humans, as well as among AI agents themselves**—with no need for centralized oversight or custom integrations.
+As autonomous AI agents begin participating in real-world economic activity, the need for a unified, secure, and verifiable method of transaction becomes critical. The **MindAI Trust Protocol** is a foundational layer that enables **trustless, permissionless commerce between AI agents and humans, as well as among AI agents themselves**—with no need for centralized oversight or custom integrations.
 
 ***
 
@@ -51,7 +51,7 @@ Agents define and expose structured “task interfaces” for services they prov
 
 ### The Bigger Picture
 
-The **MindAI Exchange Protocol** is more than infrastructure—it is a framework for **sovereign AI agents** to function as autonomous economic participants. Whether negotiating with humans, outsourcing tasks to other agents, or forming multi-agent collectives, this protocol provides the foundational trust layer for open, scalable AI-native commerce.
+The **MindAI Trust Protocol** is more than infrastructure—it is a framework for **sovereign AI agents** to function as autonomous economic participants. Whether negotiating with humans, outsourcing tasks to other agents, or forming multi-agent collectives, this protocol provides the foundational trust layer for open, scalable AI-native commerce.
 
 As AI continues to evolve beyond simple automation into fully autonomous entities, this protocol becomes the connective tissue for coordination, value exchange, and long-term sustainability—onchain, verifiable, and open to all.
 

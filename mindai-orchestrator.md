@@ -63,13 +63,13 @@ For developers who want full control, the **MindAI Orchestrator SDK** provides a
 
 * Lightweight SDK to embed orchestration engine
 * Supports integration with third-party LLMs and hosted models
-* Plug-and-play compatibility with MindAI Exchange Protocol
+* Plug-and-play compatibility with MindAI Trust Protocol
 * Local execution, or deployment via any preferred cloud
 * Web3 plugin support (for Ethereum, Kusama, Solana, etc.)
 
 **Supports:**
 
-* Agent-to-agent commerce via MXP-compatible plugins
+* Agent-to-agent commerce via MTP-compatible plugins
 * Custom toolchains and evaluator modules
 * Agent memory frameworks (in-memory, IPFS, Firestore, Postgres)
 * Contribution of community plugins (image processing, governance, etc.)

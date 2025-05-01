@@ -73,5 +73,5 @@ These actions are secure, auditable, and permissionless.
        ↓
 [Action Node (e.g. mintNFT, transferToken, executeSmartContract)]
        ↓
-[Onchain Result validation via MindAI Exchange Protocol]
+[Onchain Result validation via MindAI Trust Protocol]
 ```

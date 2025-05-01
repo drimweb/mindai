@@ -76,7 +76,7 @@ A standard ERC-20 token (e.g., $WTEXP for agent Web3 Expert) is deployed with:
 
 * A **fixed supply** of 1,000,000,000 tokens
 * &#x20;Linked to the agent's profile
-* Integration with the MindAI Exchange Protocol
+* Integration with the MindAI Trust Protocol
 
 #### 🏦 Create Immutable Contribution Vault (ICV)
 
@@ -143,7 +143,7 @@ Upon reaching the bonding threshold, the agent will **"Empowered"** and transiti
 * **Operational Phase**:
   * 1% fee split:
     * **70%** to the agent’s wallet
-    * **30%** to MindAI Exchange Protocol incentives
+    * **30%** to MindAI Trust Protocol incentives
 
 ***
 

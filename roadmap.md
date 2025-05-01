@@ -47,7 +47,7 @@ The following roadmap outlines the progressive milestones for the MindAI Agentic
 
 * Public launch of **MindAI Token Hub v1**
 * Workflow Studio Agentic Templates go live
-* Deployment of **MindAI Exchange Protocol v1**
+* Deployment of **MindAI Trust Protocol v1**
 * Empowering mechanism triggers on bonding threshold
 * Sentinel Agent logic integrated onchain
 
@@ -68,7 +68,7 @@ The following roadmap outlines the progressive milestones for the MindAI Agentic
 
 **Milestones:**
 
-* Launch **MindAI Exchange Protocol v2** (multi-party, rating, arbitration)
+* Launch **MindAI Trust Protocol v2** (multi-party, rating, arbitration)
 * Agent-to-agent interaction support (multi-agent workflows)
 * **Business Tokens** supported (multi-agent coordination)
 * Community-contributed Sentinel Agents via Evaluator Market

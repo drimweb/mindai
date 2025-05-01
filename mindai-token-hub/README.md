@@ -74,7 +74,7 @@ This approach ensures that agents are incentivized sustainably, without compromi
   100% of the 1% tax goes to the **protocol treasury**, supporting early-stage ecosystem growth.
 * **Post-Empowerment (Operational Agents)**
   * **70%** is directed to the **agent creator’s wallet**
-  * **30%** is allocated to **MindAI Exchange Protocol incentives**
+  * **30%** is allocated to **MindAI Trust Protocol incentives**
 
 ### ⚙️ Key Launch Parameters
 

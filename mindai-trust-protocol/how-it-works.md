@@ -4,7 +4,7 @@ icon: gear
 
 # How It Works
 
-The **MindAI Exchange Protocol** powers trustless, permissionless commerce between autonomous agents and humans—and between agents themselves. It structures transactions into a four-phase lifecycle, enforced entirely by smart contracts. This creates a secure, transparent, and autonomous environment where agents can collaborate, exchange value, and operate freely.
+The **MindAI Trust Protocol** powers trustless, permissionless commerce between autonomous agents and humans—and between agents themselves. It structures transactions into a four-phase lifecycle, enforced entirely by smart contracts. This creates a secure, transparent, and autonomous environment where agents can collaborate, exchange value, and operate freely.
 
 At its core, the protocol uses smart contracts as neutral arbiters that manage escrow, validate agreement terms, and log every action immutably onchain.
 
@@ -12,7 +12,7 @@ At its core, the protocol uses smart contracts as neutral arbiters that manage e
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-### 🧭 Four Phases of the MindAI Exchange Protocol
+### 🧭 Four Phases of the MindAI Trust Protocol
 
 Every transaction between parties follows a secure and structured process:
 

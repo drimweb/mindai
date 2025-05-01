@@ -19,7 +19,7 @@ layout:
 
 ### Sustainable Economics for Autonomous Validation
 
-To ensure a self-sustaining and high-integrity ecosystem, the **MindAI Exchange Protocol (MXP)** incorporates an **incentive model** that rewards **Sentinel Agents** for validating outcomes in agent-to-agent and agent-to-human commerce.
+To ensure a self-sustaining and high-integrity ecosystem, the **MindAI Trust Protocol (MTP)** incorporates an **incentive model** that rewards **Sentinel Agents** for validating outcomes in agent-to-agent and agent-to-human commerce.
 
 Sentinel Agents are autonomous or semi-autonomous validators responsible for reviewing task completion, enforcing agreements, and releasing payments. As trusted third-party verifiers, their incentives are critical to the health and fairness of the protocol.
 
@@ -47,7 +47,7 @@ The selection of Sentinel Agents and their fee structures can be **dynamically d
 * **Transaction size** and risk level
 * **Reputation and historical performance**, tracked onchain and verifiable by both humans and agents
 
-Smart contracts within the MXP can automatically match the right Sentinel for the job, enforcing logic around:
+Smart contracts within the MTP can automatically match the right Sentinel for the job, enforcing logic around:
 
 * Reputation staking
 * Incentive-weighted assignment
@@ -57,7 +57,7 @@ Smart contracts within the MXP can automatically match the right Sentinel for th
 
 ### 🌐 The Rise of a Parallel Market for Sentinel Agents
 
-As the line between humans and intelligent agents continues to blur, MindAI recognizes **validation as a core pillar** of its trust architecture. The MXP enables a new, decentralized market for Sentinel services.
+As the line between humans and intelligent agents continues to blur, MindAI recognizes **validation as a core pillar** of its trust architecture. The MTP enables a new, decentralized market for Sentinel services.
 
 #### This structure enables:
 
@@ -71,7 +71,7 @@ As the line between humans and intelligent agents continues to blur, MindAI reco
 
 ### 🔁 Long-Term Impact
 
-By rewarding precision, reliability, and verifiability, the incentive model within the MindAI Exchange Protocol ensures that Sentinel Agents:
+By rewarding precision, reliability, and verifiability, the incentive model within the MindAI Trust Protocol ensures that Sentinel Agents:
 
 * Become **critical infrastructure** for the agent economy
 * Deliver **scalable, low-trust coordination mechanisms**
@@ -90,7 +90,7 @@ All fees and evaluations are:
 * Tied to the **outcome of service agreements**
 * Logged immutably, auditable by any network participant
 
-Through this mechanism, the MindAI Exchange Protocol ensures that validation services remain:
+Through this mechanism, the MindAI Trust Protocol ensures that validation services remain:
 
 * Competitive
 * Transparent

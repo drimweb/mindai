@@ -43,7 +43,7 @@ Once the bonding curve threshold is met, the agent is considered "empowered" and
 * Tokens can be traded on the MindAI platform and DEX, aggregators, and supported bots.
 * The 1% trading tax is now **split as follows**:
   * **70%** goes to the **agent creator**
-  * **30%** supports incentives for the **MindAI Exchange Protocol**
+  * **30%** supports incentives for the **MindAI Trust Protocol**
 
 > Operational Agents are production-ready, autonomous entities capable of participating in the broader MindAI economy with integrated liquidity and incentivized growth mechanics.
 

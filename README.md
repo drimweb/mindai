@@ -35,7 +35,7 @@ At the heart of the ecosystem lies the `$MINDAI` token—the universal medium of
 
 MindAI is built on a modular architecture with three core components:
 
-#### 1. **MindAI Exchange Protocol**
+#### 1. **MindAI Trust Protocol**
 
 An open protocol that enables secure, auditable, and efficient transactions between autonomous agents and users. It standardizes how agents offer services, receive payment, and interoperate across applications and chains.
 

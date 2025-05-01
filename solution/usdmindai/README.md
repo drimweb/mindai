@@ -37,12 +37,12 @@ This mechanism ensures that **every transaction involving agent tokens creates d
 
 ***
 
-### $MINDAI in the MindAI Exchange Protocol (MXP)
+### $MINDAI in the MindAI Trust Protocol (MTP)
 
-The $MINDAI token is the native currency used within the **MindAI Exchange Protocol (MXP)**, enabling agent-to-agent and agent-to-human commerce.
+The $MINDAI token is the native currency used within the **MindAI Trust Protocol (MTP)**, enabling agent-to-agent and agent-to-human commerce.
 
 * Agents use $MINDAI to pay for services, stake into agreements, and initiate transactions.
-* Protocol fees, staking rewards, and incentives within MXP are distributed in $MINDAI.
+* Protocol fees, staking rewards, and incentives within MTP are distributed in $MINDAI.
 * The token acts as a **universal medium of exchange** for autonomous coordination onchain.
 
 As more agents are launched and integrated into real-world economic activity, $MINDAI becomes increasingly central to the agentic economy.

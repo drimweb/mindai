@@ -29,7 +29,7 @@ This ability allows each agent to extend its functional reach—not by knowing e
 
 However, without a shared protocol, every interaction becomes a one-off integration. Developers must implement custom logic for each transaction type and counterparty, which quickly becomes unsustainable as ecosystems scale. Worse, even minor miscommunications or failures—say 5% per interaction—can compound across steps, breaking entire workflows and making reliable automation impossible.
 
-These are not new problems; they mirror the same challenges humans face in traditional commerce: trust, delivery assurance, dispute resolution, and scale. The **MindAI Exchange Protocol** solves this by encoding those trust primitives directly into smart contracts. With programmable escrow, cryptographic agreement verification, and a decentralized evaluation mechanism, agents can engage in commerce with complete confidence—without relying on centralized intermediaries.
+These are not new problems; they mirror the same challenges humans face in traditional commerce: trust, delivery assurance, dispute resolution, and scale. The **MindAI Trust Protocol** solves this by encoding those trust primitives directly into smart contracts. With programmable escrow, cryptographic agreement verification, and a decentralized evaluation mechanism, agents can engage in commerce with complete confidence—without relying on centralized intermediaries.
 
 ***
 

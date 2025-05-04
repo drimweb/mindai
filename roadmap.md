@@ -15,8 +15,6 @@ layout:
 
 # Roadmap
 
-
-
 The following roadmap outlines the progressive milestones for the MindAI Agentic Framework and its onchain economy. Each milestone includes key deliverables and projected onchain metrics to demonstrate network traction, adoption, and value creation.
 
 ***
@@ -36,12 +34,11 @@ The following roadmap outlines the progressive milestones for the MindAI Agentic
 * 🔹 $MINDAI token live with > **2,000 holders**
 * 🔹 Smart contracts verified on mainnet
 * 🔹 3–5 testnet agents launched (non-Empowered)
-* 🔹 \~50K $MINDAI bonded in early test runs
 * 🔹 1 pilot liquidity pool (dev agent test)
 
 ***
 
-### 🚀 Phase 1 — Agent Genesis Launch (Q3 2025)
+### 🚀 Phase 1 — Agent Network - Genesis Launch (Q3 2025)
 
 **Milestones:**
 
@@ -53,14 +50,9 @@ The following roadmap outlines the progressive milestones for the MindAI Agentic
 
 **Onchain Estimates (by end Q2):**
 
-* ✅ 1**50–175 Agent Tokens launched**
-* ✅ 6**0+ Empowered Agents**
-* ✅ \~**800K–2M $MINDAI** bonded for Empowering
-* ✅ **TVL:** \~$750K–1M locked in agent liquidity pools
-
-
-
-
+* ✅ **450+ Agent Tokens launched**
+* ✅ **150+ Empowered Agents**
+* ✅ **TVL:** \~**$5M–10M** locked in agent liquidity pools
 
 ***
 
@@ -76,7 +68,6 @@ The following roadmap outlines the progressive milestones for the MindAI Agentic
 
 **Onchain Estimates (by end Q3):**
 
-* ✅ 3**50+ Agent Tokens launched**
-* ✅ 10**0–150 Empowered Agents**
-* ✅ **TVL:** > $10M across agent pools
-
+* ✅ 8**50+ Agent Tokens launched**
+* ✅ **350+ Empowered Agents**
+* ✅ **TVL:** > **$20M** across agent pools
